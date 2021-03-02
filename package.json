@@ -1,0 +1,19 @@
+{
+  "name": "code-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BudiSetyo/code-implementation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BudiSetyo/code-implementation/issues"
+  },
+  "homepage": "https://github.com/BudiSetyo/code-implementation#readme"
+}
